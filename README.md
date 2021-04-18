@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/oCFIafF.png" alt="">
-</p>
+![](plot.png)
 
 In this super scientific study we show that having massive amounts of twitter follower clearly implies tons of clubhouse fame.
 
