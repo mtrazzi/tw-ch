@@ -2,7 +2,7 @@
 
 In this super scientific study we show that having massive amounts of twitter follower clearly implies tons of clubhouse fame.
 
-Also, if you changed your picture between twitter and clubhouse you're more likely to be on the upper left side of the curve, which is kinda better at clubhouse than twitter, but not part of the VIP club (upper right).
+Also, there seems to be two kinds of profiles with lots of clubhouse followers. Either they already have a large twitter following and the clubhouse follows, or they go by a different strategy: they change their profile picture on clubhouse!! If you look at the red datapoints, they get massively more (# clubhouse followers)/(# twitter follower) ratio because of this simple trick.
 
 ## What you need
 
