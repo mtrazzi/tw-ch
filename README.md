@@ -18,7 +18,7 @@ pip install numpy sqlite3 pandas requests scipy matplotlib
 jupyter notebook
 ```
 
-Then click on the thing and to "Restart and run all cells"
+Then click on the `tw_ch.ipynb` file and do Kernel > "Restart and run all cells"
 
 ### Optional
 
